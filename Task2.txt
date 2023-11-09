@@ -1,0 +1,19 @@
+#Get IP Address of a Domain (guvi.in):
+
+nslookup guvi.in
+
+
+#Find CPU/Memory Usage of Your Server:
+
+free -m
+
+#Test Connectivity Between Two Nodes:
+
+ping <Node_2_IP_Address>
+
+
+#Check if Port is Open (guvi.com:9000):
+
+telnet guvi.com 9000
+
+
